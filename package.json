@@ -1,6 +1,6 @@
 {
   "name": "create-hkv-project",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "scripts": {},
   "bin": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.3",
+    "command-line-args": "^5.0.2",
     "nodegit": "^0.23.0"
   }
 }
